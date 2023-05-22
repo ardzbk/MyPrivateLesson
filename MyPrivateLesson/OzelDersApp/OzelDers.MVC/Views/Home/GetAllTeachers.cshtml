@@ -1,0 +1,70 @@
+﻿@model List<TeacherModel>
+
+@{
+    List<TeacherModel> teachers = Model;
+}
+<div class="row " style="height: 100px; background-color:#000000CC">
+
+</div>
+<section id="portfolio" class="section portfolio-section text-center">
+
+    <div class="portfolio-container  ">
+        <div class="row mt-1">
+
+            @foreach (var teacher in teachers)
+            {
+                @*<div class="col-md-6 col-lg-4 web new ">
+
+                    <div class="portfolio-item " style="max-width:300px;max-height:300px">
+                        <img src="/images/@teacher.Image.Url" class="img-fluid h-100 w-100" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                        <div class="content-holder">
+                            <a class="img-popup" href="assets/imgs/web-1.jpg"></a>
+                            <div class="text-holder">
+                                <h6 class="title">@teacher.FirstName</h6>
+                                <h6 class="title">@teacher.LastName</h6>
+                                @for (int i = 0; i < teacher.Branches.Count; i++)
+                                {
+                                    <h6 class="mb-0 text-sm">@teacher.Branches[i].BranchName</h6>
+                                }
+
+
+                                <a asp-area=""
+                                   asp-controller="Home"
+                                   asp-action="TeacherDetails"
+                                   asp-route-url=@teacher.Url
+                                   class="btn">Detay</a>
+                            </div>
+                        </div>
+                    </div>*@
+                <div class="col-4 mb-4" style="padding-left: 120px; max-height:600px">
+                    <div class="card text-center " style="width: 22rem;">
+                        <img src="/images/@teacher.Image.Url" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">@teacher.FirstName @teacher.LastName</h5>
+                            <div class="row w-100 mt-3" style="margin:0px"> 
+
+                                @for (int i = 0; i < teacher.Branches.Count; i++)
+                                {
+                                    <div class="col-6 mx-auto">
+                                        <p class="card-text">@teacher.Branches[i].BranchName</p>
+                                    </div>
+                                }
+                            </div>
+
+                            <a asp-area=""
+                               asp-controller="Home"
+                               asp-action="TeacherDetails"
+                               asp-route-url=@teacher.Url
+                               class="btn btn-outline-secondary mt-3">Detay</a>
+                        </div>
+                    </div>
+                </div>
+               
+            @*</div>*@
+
+            }
+        </div>
+
+
+    </div>
+</section>

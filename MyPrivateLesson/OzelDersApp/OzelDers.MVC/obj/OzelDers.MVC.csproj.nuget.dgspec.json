@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/OzelDers.MVC.csproj": {}
+  },
+  "projects": {
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/OzelDers.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/OzelDers.Business.csproj",
+        "projectName": "OzelDers.Business",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/OzelDers.Business.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/OzelDers.Data.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/OzelDers.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/OzelDers.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/OzelDers.Core.csproj",
+        "projectName": "OzelDers.Core",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/OzelDers.Core.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/OzelDers.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/OzelDers.Data.csproj",
+        "projectName": "OzelDers.Data",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/OzelDers.Data.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/OzelDers.Entity.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/OzelDers.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/OzelDers.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/OzelDers.Entity.csproj",
+        "projectName": "OzelDers.Entity",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/OzelDers.Entity.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/OzelDers.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/OzelDers.MVC.csproj",
+        "projectName": "OzelDers.MVC",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/OzelDers.MVC.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/OzelDers.Business.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/OzelDers.Business.csproj"
+              },
+              "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/OzelDers.Core.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/OzelDers.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AspNetCoreHero.ToastNotification": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Iyzipay": {
+              "target": "Package",
+              "version": "[2.1.55, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

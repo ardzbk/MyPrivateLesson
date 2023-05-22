@@ -1,0 +1,104 @@
+﻿@model TeacherListViewModel
+
+@{
+    List<TeacherViewModel> teachers = Model.Teachers;
+}
+
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card my-4">
+                <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                    <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3 d-flex justify-content-between px-2">
+                        <div>
+                            <h6 class="text-white text-capitalize ps-3">ÖĞRETMEN TABLOSU</h6>
+                        </div>
+                        <div>
+                            <a asp-area="Admin"
+                               asp-controller="Teachers"
+                               asp-action="Create" type="button" class="btn btn-outline-white">Öğretmen Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body px-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Öğremtenler</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">İletişim Bilgileri </th>
+                                    <th ßclass="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Cinsiyeti</th>
+                                    <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Doğum Tarihi</th>
+                                    <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Mezuniyet</th>
+                                    <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Öğrencileri</th>
+                                    <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Onaylı mı</th>
+                                    <th class="text-secondary opacity-7"></th>
+                                    <th class="text-secondary opacity-7"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var teacher in teachers)
+                                {
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div>
+                                                    <img src="~/images/@teacher.Image.Url" class="avatar avatar-sm me-3 border-radius-lg" alt="user1">
+                                                </div>
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">@teacher.FirstName @teacher.LastName </h6>
+                                                    <p class="text-xs text-secondary mb-0">@teacher.User.UserName</p>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-xs font-weight-bold mb-0">@teacher.Phone</p>
+                                            <p class="text-xs text-secondary mb-0">@teacher.User.City</p>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <span class="badge badge-sm bg-gradient-success">@teacher.Gender</span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <span class="badge badge-sm bg-gradient-success">@teacher.DateOfBirth</span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <span class="badge badge-sm bg-gradient-success">@teacher.Graduation</span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <a asp-area="Admin"
+                                               asp-controller="Students"
+                                               asp-action="GetStudentsByTeacher"
+                                               asp-route-id=@teacher.Id
+                                               class="btn btn-link">(@teacher.Students.Count)</a>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <span class="badge badge-sm bg-gradient-success">@teacher.IsApproved</span>
+                                        </td>
+                                        <td class="align-middle text-center">
+                                            <a asp-area="Admin"
+                                               asp-controller="Teachers"
+                                               asp-action="Edit"
+                                               asp-route-id=@teacher.Id class="btn btn-outline-warning " data-toggle="tooltip" data-original-title="Edit user">
+                                                Düzenle
+                                            </a>
+                                        </td>
+                                        <td class="align-middle d-flex ">
+                                            <a  asp-area="Admin"
+                                                asp-controller="Teachers"
+                                               asp-action="Delete"
+                                               asp-route-id=@teacher.Id class="btn btn-outline-danger " data-toggle="tooltip" data-original-title="Edit user">
+                                                Sil
+                                            </a>
+                                         
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

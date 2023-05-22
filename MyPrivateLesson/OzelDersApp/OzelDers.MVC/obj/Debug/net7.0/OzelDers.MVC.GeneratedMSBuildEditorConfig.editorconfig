@@ -1,0 +1,245 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OzelDers.MVC
+build_property.RootNamespace = OzelDers.MVC
+build_property.ProjectDir = /Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Branches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Branches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Branches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Branches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_AsidePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Bc2lkZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_MainPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19NYWluUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_MenuAllPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19NZW51QWxsUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Shared/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9NYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/StudentRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TdHVkZW50UmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Account/TeacherRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9UZWFjaGVyUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Advert/AdvertDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0FkdmVydERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Advert/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Advert/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Advert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/AdvertDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZHZlcnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/GetAllAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HZXRBbGxBZHZlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/GetAllTeachers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HZXRBbGxUZWFjaGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/Hakkımızda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWtrxLFtxLF6ZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/KayıtOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9LYXnEsXRPbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/TeacherDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZWFjaGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Home/_GetAllBranchesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fR2V0QWxsQnJhbmNoZXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Shared/_Navbarpartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXJwYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Shared/_Layout (copy).cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQgKGNvcHkpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-v1waii68k1
+
+[/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hva8bi2l4l

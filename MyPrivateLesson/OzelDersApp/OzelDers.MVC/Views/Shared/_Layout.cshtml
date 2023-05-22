@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Devcrud">
+
+    <title>@ViewData["Title"] - OzelDers.MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/OzelDers.MVC.styles.css" asp-append-version="true" />
+
+    <!-- font icons -->
+    <link rel="stylesheet" href="~/vendors/themify-icons/css/themify-icons.css">
+    <!-- Bootstrap + LeadMark main styles -->
+    <link rel="stylesheet" href="~/css/leadmark.css">
+
+
+
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home" style="overflow-x:hidden">
+
+
+    @await Html.PartialAsync("_NavbarPartial")
+    <div>
+        @RenderBody()
+    </div>
+
+    <script src="~/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="~/vendors/bootstrap/bootstrap.bundle.js"></script>
+
+    <!-- bootstrap 3 affix -->
+    <script src="~/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- Isotope -->
+    <script src="~/vendors/isotope/isotope.pkgd.js"></script>
+
+    <!-- LeadMark js -->
+    <script src="~/js/leadmark.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await Component.InvokeAsync("Notyf")
+
+
+</body>
+</html>
+
+

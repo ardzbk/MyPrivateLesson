@@ -1,0 +1,170 @@
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/bin/Debug/net7.0/OzelDers.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/refint/OzelDers.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/OzelDers.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Business/obj/Debug/net7.0/ref/OzelDers.Business.dll

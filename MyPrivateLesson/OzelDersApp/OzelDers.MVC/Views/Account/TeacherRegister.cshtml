@@ -1,0 +1,293 @@
+﻿@model TeacherRegisterViewModel
+    @*<div class="row " style="height: 100px; background-color:#000000CC">
+
+    </div>
+    <div class="container-fluid mt-5 mb-3">
+
+        <div class="row">
+            <form asp-area="" asp-controller="Account" asp-action="TeacherRegister" method="post" enctype="multipart/form-data">
+                <div class="row w-100">
+                    <h1 class="display-6">Öğretmen Kayıt Ol</h1>
+
+                    <div class="col-12 col-md-9">
+                        <div class="row">
+                            <div class="col-6 mb-3 w-100">
+                                <label class="form-label" asp-for="FirstName"></label>
+                                <input class="form-control" asp-for="FirstName">
+                                <span class="text-danger" asp-validation-for="FirstName"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="LastName"></label>
+                                <input class="form-control" asp-for="LastName">
+                                <span class="text-danger" asp-validation-for="LastName"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Gender"></label>
+                                <input class="form-control" asp-for="Gender">
+                                <span class="text-danger" asp-validation-for="Gender"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="DateOfBirth"></label>
+                                <input class="form-control" asp-for="DateOfBirth">
+                                <span class="text-danger" asp-validation-for="DateOfBirth"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Price"></label>
+                                <input class="form-control" asp-for="Price">
+                                <span class="text-danger" asp-validation-for="Price"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Graduation"></label>
+                                <input class="form-control" asp-for="Graduation">
+                                <span class="text-danger" asp-validation-for="Graduation"></span>
+                            </div>
+
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="City"></label>
+                                <input class="form-control" asp-for="City">
+                                <span class="text-danger" asp-validation-for="City"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Phone"></label>
+                                <input class="form-control" asp-for="Phone">
+                                <span class="text-danger" asp-validation-for="Phone"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="UserName"></label>
+                                <input class="form-control" asp-for="UserName">
+                                <span class="text-danger" asp-validation-for="UserName"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Email"></label>
+                                <input class="form-control" asp-for="Email">
+                                <span class="text-danger" asp-validation-for="Email"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="Password"></label>
+                                <input class="form-control" asp-for="Password">
+                                <span class="text-danger" asp-validation-for="Password"></span>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <label class="form-label" asp-for="RePassword"></label>
+                                <input class="form-control" asp-for="RePassword">
+                                <span class="text-danger" asp-validation-for="RePassword"></span>
+                            </div>
+                            <div class="mb-3">
+                                <input type="file" asp-for="Image" class="form-control" accept="images/" multiple />
+                                <span class="text-danger" asp-validation-for="Image"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <h5>Branş Seç</h5>
+                        <div class="row">
+                            @foreach (var branch in Model.Branches)
+                            {
+                                <div class="col-6">
+
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" name="SelectedBranches" value="@branch.Id" @if (Model.SelectedBranches != null) @(Model.SelectedBranches.Any(sc => sc == branch.Id) ? "checked" : "")
+                                               >
+                                        <label class="form-check-label">@branch.BranchName</label>
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+
+                        <span asp-validation-for="SelectedBranches" class="text-danger"></span>
+
+                    </div>
+
+                </div>
+
+
+
+                <button type="submit" class="btn btn-primary">Kaydol</button>
+
+            </form>
+
+        </div>
+    </div>*@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+    <title>
+        Material Dashboard 2 by Creative Tim
+    </title>
+    <!--     Fonts and icons     -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+    <!-- Nucleo Icons -->
+    <link href="../assets/css/nucleo-icons.css" rel="stylesheet" />
+    <link href="../assets/css/nucleo-svg.css" rel="stylesheet" />
+    <!-- Font Awesome Icons -->
+    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <!-- CSS Files -->
+    <link id="pagestyle" href="../assets/css/material-dashboard.css?v=3.0.0" rel="stylesheet" />
+</head>
+
+<body class="">
+
+    <main class="main-content  mt-0">
+        <section>
+            <div class="page-header min-vh-100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 start-0 text-center justify-content-center flex-column">
+                            <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('../assets/img/illustrations/illustration-signup.jpg'); background-size: cover;">
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-7 col-md-8d-flex flex-column ms-auto me-auto ms-lg-auto me-lg-5">
+                            <div class="card card-plain">
+                                <div class="card-header">
+                                    <div class="row">
+                                        <div class="col-9">
+                                            <h4 class="font-weight-bolder">Öğretmen Kayıt Ol Sayfası</h4>
+                                            <p class="mb-0">Enter your email and password to register</p>
+                                        </div>
+                                        <div class="col-3">
+                                            <h5>Branş Seç</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <form asp-area="" asp-controller="Account" asp-action="TeacherRegister" method="post" enctype="multipart/form-data">
+                                        <div class="row">
+                                            <div class="col-8">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="FirstName"></label>
+                                                            <input class="form-control" asp-for="FirstName">
+                                                            <span class="text-danger" asp-validation-for="FirstName"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="LastName"></label>
+                                                            <input class="form-control" asp-for="LastName">
+                                                            <span class="text-danger" asp-validation-for="LastName"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="Gender"></label>
+                                                            <input class="form-control" asp-for="Gender">
+                                                            <span class="text-danger" asp-validation-for="Gender"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="DateOfBirth"></label>
+                                                            <input class="form-control" asp-for="DateOfBirth" type="">
+                                                            <span class="text-danger" asp-validation-for="DateOfBirth"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="Password"></label>
+                                                            <input class="form-control" asp-for="Password">
+                                                            <span class="text-danger" asp-validation-for="Password"></span>
+                                                        </div>
+                                                     
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="Graduation"></label>
+                                                            <input class="form-control" asp-for="Graduation">
+                                                            <span class="text-danger" asp-validation-for="Graduation"></span>
+                                                        </div>
+
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="City"></label>
+                                                            <input class="form-control" asp-for="City">
+                                                            <span class="text-danger" asp-validation-for="City"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="Phone"></label>
+                                                            <input class="form-control" asp-for="Phone">
+                                                            <span class="text-danger" asp-validation-for="Phone"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="UserName"></label>
+                                                            <input class="form-control" asp-for="UserName">
+                                                            <span class="text-danger" asp-validation-for="UserName"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="RePassword"></label>
+                                                            <input class="form-control" asp-for="RePassword">
+                                                            <span class="text-danger" asp-validation-for="RePassword"></span>
+                                                        </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <label asp-for="Email"></label>
+                                                            <input class="form-control" asp-for="Email">
+                                                            <span class="text-danger" asp-validation-for="Email"></span>
+                                                        </div>
+
+                                                    </div>
+                                                        <div class="input-group input-group-static mb-3">
+                                                            <input type="file" asp-for="Image" class="form-control" accept="images/" multiple />
+                                                            <span class="text-danger" asp-validation-for="Image"></span>
+                                                        </div>
+
+                                                    </div>
+                                            </div>
+                                            <div class="col-4">
+                                                <div class="row">
+                                                    <div class="row">
+                                                        @foreach (var branch in Model.Branches)
+                                                        {
+                                                                <div class="form-check">
+                                                                    <input class="form-check-input" type="checkbox" name="SelectedBranches" value="@branch.Id" @if (Model.SelectedBranches != null) @(Model.SelectedBranches.Any(sc => sc == branch.Id) ? "checked" : "")
+                                                                           >
+                                                                    <label class="form-check-label">@branch.BranchName</label>
+                                                                </div>
+                                                        }
+                                                    </div>
+
+                                                    <span asp-validation-for="SelectedBranches" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                           
+
+                                        </div>
+
+                                        <div class="text-center">
+                                            <button type="submit" class="btn btn-lg bg-gradient-primary btn-lg w-100 mt-4 mb-0">Kayıt Ol</button>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="card-footer text-center pt-0 px-lg-2 px-1">
+                                    <p class="mb-2 text-sm mx-auto">
+                                        Already have an account?
+                                        <a href="../pages/sign-in.html" class="text-primary text-gradient font-weight-bold">Giriş Yap</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <!--   Core JS Files   -->
+    <script src="../assets/js/core/popper.min.js"></script>
+    <script src="../assets/js/core/bootstrap.min.js"></script>
+    <script src="../assets/js/plugins/perfect-scrollbar.min.js"></script>
+    <script src="../assets/js/plugins/smooth-scrollbar.min.js"></script>
+    <script>var win = navigator.platform.indexOf('Win') > -1;
+    if (win && document.querySelector('#sidenav-scrollbar')) {
+      var options = {
+        damping: '0.5'
+      }
+      Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
+    }</script>
+    <!-- Github buttons -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->
+    <script src="../assets/js/material-dashboard.min.js?v=3.0.0"></script>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+﻿@model AdvertListViewModel
+
+@{
+    List<AdvertViewModel> adverts = Model.Adverts;
+}
+
+<div class="container">
+    <div style="height:200px">
+
+    </div>
+    <div class="row">
+        <a asp-area=""
+           asp-controller="Advert"
+           asp-action="Create"
+           asp-route-id="@User.Identity.Name"
+           class="btn btn-secondary pb-2">ekle</a>
+
+        @if (Model.Adverts.Count == 0)
+        {
+            <h5>İlanınız hiç yoktur.....</h5>
+        }
+        else
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="text-center">#</th>
+                        <th>İsim</th>
+                        <th>Mezuniyet</th>
+                        <th>Onaylı mı?</th>
+                        <th>Ücret</th>
+                        <th>branş</th>
+                        <th class="text-right">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var advert in adverts)
+                    {
+                        <tr>
+                            <td class="text-center">@advert.Id</td>
+                            <td>@advert.FirstName @advert.LastName</td>
+                            <td>@advert.Graduation</td>
+                            <td>@advert.IsApproved</td>
+                            <td>@advert.Price</td>
+                            <td>@advert.BranchName</td>
+                            <td class="td-actions text-right">
+                                <a asp-area=""
+                                   asp-controller="Advert"
+                                   asp-action="Edit"
+                                   asp-route-id="@advert.Id"
+                                   type="button" rel="tooltip" class="btn btn-success">
+                                    <i class="material-icons">Düzenle</i>
+                                </a>
+                                <a asp-area=""
+                                   asp-controller="Advert"
+                                   asp-action="Delete"
+                                   asp-route-id="@advert.Id"
+                                   type="button" rel="tooltip" class="btn btn-danger">
+                                    <i class="material-icons">Sil</i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+
+
+
+        }
+    </div>
+</div>

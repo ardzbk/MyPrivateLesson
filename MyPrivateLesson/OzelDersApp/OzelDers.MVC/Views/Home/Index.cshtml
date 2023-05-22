@@ -1,0 +1,126 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model BranchListViewModel
+
+<!-- Page Header -->
+<header class="header">
+    <div class="overlay">
+
+        <h5 class="title text-center"> Öğrenmek Artık Çok Kolay   </h5>
+    </div>
+    <div class="shape">
+        <svg viewBox="0 0 1500 200">
+            <path d="m 0,240 h 1500.4828 v -71.92164 c 0,0 -286.2763,-81.79324 -743.19024,-81.79324 C 300.37862,86.28512 0,168.07836 0,168.07836 Z" />
+        </svg>
+    </div>
+    <div class="mouse-icon"><div class="wheel"></div></div>
+</header>
+<!-- End Of Page Header -->
+<!-- Service Section -->
+<section class="section pt-5">
+    <div class="container">
+        <h6 class="section-title text-center">KAYIT OL</h6>
+        <h4 class="section-subtitle text-center mb-5 pb-3">Kolayca kayıt ol ve bizden biri ol! </h4>
+
+        <div class="row text-center">
+            <div class="col-md-6">
+                <div class="card mb-4 mb-md-0">
+                    <div class="card-body">
+                        <small class="text-primary font-weight-bold">01</small>
+                        <h5 class="card-title mt-3">
+                            Öğrenci olarak aramıza katıl<h5>
+                                <p class="mb-0"></p>
+                                <a asp-area=""
+                                   asp-controller="Account"
+                                   asp-action="StudentRegister"
+                                   class="btn btn-outline-warning mt-3">Öğrenci Kayıt ol</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 mb-md-0">
+                    <div class="card-body">
+                        <small class="text-primary font-weight-bold">02</small>
+                        <h5 class="card-title mt-3">
+                            Öğretmen olarak aramıza katıl<h5>
+                                <a asp-area=""
+                                   asp-controller="Account"
+                                   asp-action="TeacherRegister"
+                                   class="btn btn-outline-warning mt-3">Öğretmen kayıt ol</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End OF Service Section -->
+<!-- About Section -->
+<section class="section" id="about">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pr-md-5 mb-4 mb-md-0">
+                <h6 class="section-title mb-0">Şirketimiz Hakkında</h6>
+                @*<h6 class="section-subtitle mb-4"></h6>*@
+                <p>Profilleri özgürce inceleyin ve kriterlerinize uyan mükemmel öğretmeninizle iletişime geçin (fiyatlar, diplomalar, evde veya online ders)  </p>
+                <img src="~/images/about.jpg" alt="" class="w-100 mt-3 shadow-sm">
+            </div>
+            <div class="col-md-6 pl-md-5">
+                <div class="row">
+                    <div class="col-6">
+                        <img src="~/images/about-1.jpg" alt="" class="w-100 shadow-sm">
+                    </div>
+                    <div class="col-6">
+                        <img src="~/images/about-2.jpg" alt="" class="w-100 shadow-sm">
+                    </div>
+                    <div class="col-12 mt-4">
+                        <p>Şimşek gibi hızlı öğretmenler size birkaç saat içerisinde cevap verir! İdeal öğretmeninizi bulamazsanız ekibimiz size yardımcı olur.</p>
+                        <p>
+                            <b>Öğretmeniniz veya eğitmeninizle mesajlaşma sisteminden konuşup derslerinizi özgürce planlayın.</b><br>
+                        </p>
+                        <p>Öğretmeniniz veya eğitmeninizle mesajlaşma sisteminden konuşup derslerinizi özgürce planlayın.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End OF About Section -->
+<!-- End of portfolio section -->
+<!-- Blog Section -->
+<section class="section" id="blog">
+    <div class="container-fluid">
+        <h6 class="section-title mb-0 text-center">Tüm Kategoriler</h6>
+        <h6 class="section-subtitle mb-5 text-center">İstediğiniz Alana yönelebileceksiniz ve kendinizi sınırsız tecrübelerin içinde bulacaksınız.</h6>
+
+        @await Html.PartialAsync("_GetAllBranchesPartial",Model)
+
+       
+        
+    </div>
+
+</section>
+<!-- End of Blog Section -->
+
+
+
+<script>
+
+    const contantdiv1 = document.querySelectorAll('.animation1')
+    window.addEventListener('scroll', checkBoxes5)
+    checkBoxes5()
+
+    function checkBoxes5() {
+        const triggerBottom = window.innerHeight / 5 * 4
+        contantdiv1.forEach(animation5 => {
+            const animationTop = animation5.getBoundingClientRect().top
+            if (animationTop < triggerBottom) {
+                animation5.classList.add('show')
+            } else {
+                animation5.classList.remove('show')
+            }
+        })
+    }
+</script>

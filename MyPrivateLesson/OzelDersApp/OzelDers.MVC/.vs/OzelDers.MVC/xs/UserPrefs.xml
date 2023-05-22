@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4ED61627-10D8-4E75-ADBE-B9A52C031632}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OzelDers.MVC" expanded="True">
+            <Node name="OzelDers.MVC" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OzelDers.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

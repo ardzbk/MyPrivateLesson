@@ -1,0 +1,120 @@
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Projeler/Arda Proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+C:/Users/erdiu/OneDrive/Belgeler/GitHub/arda_proje/proje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/Erp_BitirmeProjesi/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/ARDACANANERDİ/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_son/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Desktop/ARDACANANERDİ_EskıData/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Ardaproje/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/bin/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/refint/OzelDers.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/OzelDers.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.Core/obj/Debug/net7.0/ref/OzelDers.Core.dll

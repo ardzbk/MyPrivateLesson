@@ -1,0 +1,21 @@
+﻿@model BranchListViewModel
+
+@{
+    List<BranchViewModel> branches = Model.Branches;
+}
+
+<div class="row text-center">
+    @foreach (var branch in branches)
+    {
+        <div class="col-md-2">
+            <div class="card border-0 mb-4">
+                <img src="~/images/blog-1.jpg" alt="" class="card-img-top w-100">
+                <div class="card-body">
+                    <h6 class="card-title">@branch.BranchName</h6>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+

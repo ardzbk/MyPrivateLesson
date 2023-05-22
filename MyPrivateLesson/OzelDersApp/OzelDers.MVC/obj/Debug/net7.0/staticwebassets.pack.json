@@ -1,0 +1,2597 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/obj/Debug/net7.0/scopedcss/projectbundle/OzelDers.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/OzelDers.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/.DS_Store",
+      "PackagePath": "staticwebassets/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/css/material-dashboard.css",
+      "PackagePath": "staticwebassets/assets/css/material-dashboard.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/css/material-dashboard.css.map",
+      "PackagePath": "staticwebassets/assets/css/material-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/css/material-dashboard.min.css",
+      "PackagePath": "staticwebassets/assets/css/material-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/assets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/assets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/apple-icon.png",
+      "PackagePath": "staticwebassets/assets/img/apple-icon.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/bg-pricing.jpg",
+      "PackagePath": "staticwebassets/assets/img/bg-pricing.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/assets/img/bruce-mars.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/assets/img/down-arrow-dark.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/assets/img/down-arrow-white.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/down-arrow.svg",
+      "PackagePath": "staticwebassets/assets/img/down-arrow.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/drake.jpg",
+      "PackagePath": "staticwebassets/assets/img/drake.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/favicon.png",
+      "PackagePath": "staticwebassets/assets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-decor-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-decor-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-decor-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/icons/flags/AU.png",
+      "PackagePath": "staticwebassets/assets/img/icons/flags/AU.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/icons/flags/BR.png",
+      "PackagePath": "staticwebassets/assets/img/icons/flags/BR.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/icons/flags/DE.png",
+      "PackagePath": "staticwebassets/assets/img/icons/flags/DE.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/icons/flags/GB.png",
+      "PackagePath": "staticwebassets/assets/img/icons/flags/GB.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/icons/flags/US.png",
+      "PackagePath": "staticwebassets/assets/img/icons/flags/US.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/chat.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/chat.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/danger-chat-ill.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/danger-chat-ill.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/dark-lock-ill.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/dark-lock-ill.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/error-404.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/error-404.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/error-500.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/error-500.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/illustration-lock.jpg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/illustration-lock.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/illustration-reset.jpg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/illustration-reset.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/illustration-signin.jpg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/illustration-signin.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/illustration-signup.jpg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/illustration-signup.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/illustration-verification.jpg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/illustration-verification.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/lock.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/lock.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/pattern-tree.svg",
+      "PackagePath": "staticwebassets/assets/img/illustrations/pattern-tree.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/assets/img/illustrations/rocket-white.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/ivana-square.jpg",
+      "PackagePath": "staticwebassets/assets/img/ivana-square.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/ivana-squares.jpg",
+      "PackagePath": "staticwebassets/assets/img/ivana-squares.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/ivancik.jpg",
+      "PackagePath": "staticwebassets/assets/img/ivancik.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/assets/img/kal-visuals-square.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/assets/img/logo-ct-dark.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logo-ct.png",
+      "PackagePath": "staticwebassets/assets/img/logo-ct.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-coinbase.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-coinbase.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-nasa.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-nasa.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-netflix.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-netflix.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-pinterest.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-pinterest.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/gray-logos/logo-vodafone.svg",
+      "PackagePath": "staticwebassets/assets/img/logos/gray-logos/logo-vodafone.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/mastercard.png",
+      "PackagePath": "staticwebassets/assets/img/logos/mastercard.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/logos/visa.png",
+      "PackagePath": "staticwebassets/assets/img/logos/visa.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/marie.jpg",
+      "PackagePath": "staticwebassets/assets/img/marie.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/meeting.jpg",
+      "PackagePath": "staticwebassets/assets/img/meeting.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/office-dark.jpg",
+      "PackagePath": "staticwebassets/assets/img/office-dark.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/product-12.jpg",
+      "PackagePath": "staticwebassets/assets/img/product-12.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-1-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-1-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-11.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-11.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-2-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-2-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-3-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-3-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-4-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-4-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-5-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-5-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-6-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-6-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-7-min.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-7-min.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-details-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-details-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-details-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-details-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-details-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-details-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-details-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-details-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/products/product-details-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-details-5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/assets/img/shapes/pattern-lines.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/assets/img/shapes/waves-white.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/bootstrap.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/bootstrap.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/creative-tim.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/creative-tim.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/devto.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/devto.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/github.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/github.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/google-webdev.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/google-webdev.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/icon-bulb.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/icon-bulb.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/assets/img/small-logos/icon-sun-cloud.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-asana.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-asana.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-atlassian.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-invision.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-jira.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-slack.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/assets/img/small-logos/logo-xd.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/team-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/team-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/team-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/team-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/team-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/team-5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/tesla-model-s.png",
+      "PackagePath": "staticwebassets/assets/img/tesla-model-s.png"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/img/vr-bg.jpg",
+      "PackagePath": "staticwebassets/assets/img/vr-bg.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/core/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/js/core/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/material-dashboard.js",
+      "PackagePath": "staticwebassets/assets/js/material-dashboard.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/material-dashboard.js.map",
+      "PackagePath": "staticwebassets/assets/js/material-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/material-dashboard.min.js",
+      "PackagePath": "staticwebassets/assets/js/material-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/Chart.extension.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/Chart.extension.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/chartjs.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/chartjs.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/js/plugins/world.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/world.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/.DS_Store",
+      "PackagePath": "staticwebassets/assets/scss/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_accordion.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_accordion.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_backgrounds.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_backgrounds.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_cards-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_cards.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_components.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_components.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_dropdown-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_dropdown-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_dropup.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_floating-elements.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_floating-elements.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_footer.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_header.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_icons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_icons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_list-check.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_list-check.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_misc-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_misc.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_nav.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_popovers.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_progress.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_ripple.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_ripple.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_rtl-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_rtl-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_tables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_tilt.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_typography.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/_variables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/badges/_badge-circle.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/badges/_badge-circle.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/badges/_badge-dot.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/badges/_badge-dot.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/badges/_badge-floating.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/badges/_badge-floating.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/badges/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/badges/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-background.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-blog.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-blog.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-horizontal.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-horizontal.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-pricing.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-pricing.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-profile.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-profile.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/cards/card-rotate.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/cards/card-rotate.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/custom/_styles.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/custom/_variables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_inputs.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_colored-shadows.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/_vendor.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/_vendor.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/mixins/mixins.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/free/_flatpickr.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/free/_nouislider.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/free/_prism.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/free/plugins.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_carousel-slick.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_carousel-slick.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_choices.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_choices.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_datatable-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_datatable-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_datatable.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_datatable.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_dragula.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_dragula.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_dropzone.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_dropzone.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_fullcalendar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_fullcalendar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_glidejs.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_glidejs.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_highlight.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_highlight.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_kanban.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_kanban.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_leaflet.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_leaflet.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_list-check.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_list-check.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_photoswipe.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_photoswipe.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_quill.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_quill.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_rating-widget.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_rating-widget.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_sweetalert2.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_sweetalert2.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/_vector-map.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/_vector-map.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/multi-step.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/multi-step.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/plugins/pro/plugins-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/plugins/pro/plugins-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/theme-pro.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/theme-pro.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/theme.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_animations.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_cards.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_choices.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_full-calendar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_header.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_misc.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_ripple.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_ripple.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_table.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/assets/scss/material-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/assets/scss/material-dashboard/variables/_virtual-reality.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/css/leadmark.css",
+      "PackagePath": "staticwebassets/css/leadmark.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/020bad12-a989-47a2-86be-355009444c06.jpg",
+      "PackagePath": "staticwebassets/images/020bad12-a989-47a2-86be-355009444c06.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/0555814e-1ac2-4e1d-ac0c-df1ad1cf4743.jpg",
+      "PackagePath": "staticwebassets/images/0555814e-1ac2-4e1d-ac0c-df1ad1cf4743.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/097452bc-fcfe-4905-bbef-c4edf6b5ccef.jpg",
+      "PackagePath": "staticwebassets/images/097452bc-fcfe-4905-bbef-c4edf6b5ccef.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/0ed26102-85c4-4c7f-8655-8a947c8d60d9.jpg",
+      "PackagePath": "staticwebassets/images/0ed26102-85c4-4c7f-8655-8a947c8d60d9.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/11d16548-14bb-4a22-90f6-6d79937c4dab.jpg",
+      "PackagePath": "staticwebassets/images/11d16548-14bb-4a22-90f6-6d79937c4dab.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/15112f3b-25b7-4214-b416-5c9664ec8d60.jpg",
+      "PackagePath": "staticwebassets/images/15112f3b-25b7-4214-b416-5c9664ec8d60.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/19dde883-a2dc-4d1f-b010-c8dced1d1c34.jpg",
+      "PackagePath": "staticwebassets/images/19dde883-a2dc-4d1f-b010-c8dced1d1c34.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/1cb240be-7953-463d-91e2-5803654b7c96.jpg",
+      "PackagePath": "staticwebassets/images/1cb240be-7953-463d-91e2-5803654b7c96.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/1e95c79b-496e-4610-9c22-dd082e068ed0.jpg",
+      "PackagePath": "staticwebassets/images/1e95c79b-496e-4610-9c22-dd082e068ed0.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/203b050d-ad65-42a0-bac1-c459df6b58c0.jpg",
+      "PackagePath": "staticwebassets/images/203b050d-ad65-42a0-bac1-c459df6b58c0.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/20855694-2cfb-425f-806a-35588e7f1316.jpg",
+      "PackagePath": "staticwebassets/images/20855694-2cfb-425f-806a-35588e7f1316.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/22306ab3-df44-4af9-aa3e-b0db02d32d5b.jpg",
+      "PackagePath": "staticwebassets/images/22306ab3-df44-4af9-aa3e-b0db02d32d5b.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/2a0b47b3-1330-4aa6-805a-3341539b8575.jpg",
+      "PackagePath": "staticwebassets/images/2a0b47b3-1330-4aa6-805a-3341539b8575.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/2d9e3a14-806b-4779-9802-171e1bd844d6.jpg",
+      "PackagePath": "staticwebassets/images/2d9e3a14-806b-4779-9802-171e1bd844d6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/2ff8960f-7da1-44da-b021-ae71ac0be375.jpg",
+      "PackagePath": "staticwebassets/images/2ff8960f-7da1-44da-b021-ae71ac0be375.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/3186b231-d91a-4a83-a6fa-7655f4768bf4.jpg",
+      "PackagePath": "staticwebassets/images/3186b231-d91a-4a83-a6fa-7655f4768bf4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/3af833de-e7d2-4556-bb0d-487403fc38cb.jpg",
+      "PackagePath": "staticwebassets/images/3af833de-e7d2-4556-bb0d-487403fc38cb.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/3c481459-c74f-486c-b815-2abfb635fb9f.jpg",
+      "PackagePath": "staticwebassets/images/3c481459-c74f-486c-b815-2abfb635fb9f.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/3d939454-5a0e-4b3a-9cc1-a3d4683fdc39.jpg",
+      "PackagePath": "staticwebassets/images/3d939454-5a0e-4b3a-9cc1-a3d4683fdc39.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/3fcbf5c7-a758-478f-a502-3f4b45e0d2e1.jpg",
+      "PackagePath": "staticwebassets/images/3fcbf5c7-a758-478f-a502-3f4b45e0d2e1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/42127eca-f703-4ba7-8aae-5adabae4d85c.jpg",
+      "PackagePath": "staticwebassets/images/42127eca-f703-4ba7-8aae-5adabae4d85c.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/44877052-2870-41c3-ae5d-107adcfc78b6.jpg",
+      "PackagePath": "staticwebassets/images/44877052-2870-41c3-ae5d-107adcfc78b6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/4a511fb0-f88b-4225-b41c-bb2258d7d12a.jpg",
+      "PackagePath": "staticwebassets/images/4a511fb0-f88b-4225-b41c-bb2258d7d12a.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/4bb6101b-1878-4b30-a9d9-6c88996eb64f.jpg",
+      "PackagePath": "staticwebassets/images/4bb6101b-1878-4b30-a9d9-6c88996eb64f.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/4fb1f72e-3625-4aa6-939a-3158c6090e31.jpg",
+      "PackagePath": "staticwebassets/images/4fb1f72e-3625-4aa6-939a-3158c6090e31.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/528fb17c-a8f1-4dfe-8f1b-63fc79c47d13.jpg",
+      "PackagePath": "staticwebassets/images/528fb17c-a8f1-4dfe-8f1b-63fc79c47d13.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/54985e80-c8c3-4d6c-89a4-70087583a8a0.jpg",
+      "PackagePath": "staticwebassets/images/54985e80-c8c3-4d6c-89a4-70087583a8a0.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/58d28db7-d990-454c-8a8a-a6b895c8ebdf.jpg",
+      "PackagePath": "staticwebassets/images/58d28db7-d990-454c-8a8a-a6b895c8ebdf.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/59fbd697-a6fa-4751-830e-602e952ac2ee.jpg",
+      "PackagePath": "staticwebassets/images/59fbd697-a6fa-4751-830e-602e952ac2ee.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/5a31f821-7302-4c07-85cc-4e904ecf6b5e.jpg",
+      "PackagePath": "staticwebassets/images/5a31f821-7302-4c07-85cc-4e904ecf6b5e.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/5d83d8b2-d7a1-40a7-962f-b6bed4c7fdac.jpg",
+      "PackagePath": "staticwebassets/images/5d83d8b2-d7a1-40a7-962f-b6bed4c7fdac.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/641df3ea-d3b3-460b-8e3e-7c91b38d488e.jpg",
+      "PackagePath": "staticwebassets/images/641df3ea-d3b3-460b-8e3e-7c91b38d488e.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/66726856-5234-4c95-a29a-d03ab56be888.jpg",
+      "PackagePath": "staticwebassets/images/66726856-5234-4c95-a29a-d03ab56be888.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/66b33dda-a998-40e6-8991-320493c6a7a0.jpg",
+      "PackagePath": "staticwebassets/images/66b33dda-a998-40e6-8991-320493c6a7a0.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/67e2d770-759b-409b-8d44-fd50ddccb7fb.jpg",
+      "PackagePath": "staticwebassets/images/67e2d770-759b-409b-8d44-fd50ddccb7fb.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/6f990ec0-57ce-4d1e-9aa2-beda8d3f2b48.jpg",
+      "PackagePath": "staticwebassets/images/6f990ec0-57ce-4d1e-9aa2-beda8d3f2b48.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/7043e000-501b-4e9b-9f34-21dca28f4728.jpg",
+      "PackagePath": "staticwebassets/images/7043e000-501b-4e9b-9f34-21dca28f4728.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/7454d03c-01cb-4b1f-ae4f-70a633b8584f.jpg",
+      "PackagePath": "staticwebassets/images/7454d03c-01cb-4b1f-ae4f-70a633b8584f.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/76db2f53-4d8f-4ea4-8574-d15993eb8847.jpg",
+      "PackagePath": "staticwebassets/images/76db2f53-4d8f-4ea4-8574-d15993eb8847.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/77237217-602b-4c71-8e53-0c1c19c445d3.jpg",
+      "PackagePath": "staticwebassets/images/77237217-602b-4c71-8e53-0c1c19c445d3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/7b4004dc-1e3b-4c86-98be-abefcb3cd3f2.jpg",
+      "PackagePath": "staticwebassets/images/7b4004dc-1e3b-4c86-98be-abefcb3cd3f2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/7e0189da-f81d-4480-b15c-350f0384ca80.jpg",
+      "PackagePath": "staticwebassets/images/7e0189da-f81d-4480-b15c-350f0384ca80.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/828bff7d-bd9c-41f2-b1df-0d4ea17507c5.jpg",
+      "PackagePath": "staticwebassets/images/828bff7d-bd9c-41f2-b1df-0d4ea17507c5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/834bc838-3ab1-45b6-9958-6f013c47ec1b.jpg",
+      "PackagePath": "staticwebassets/images/834bc838-3ab1-45b6-9958-6f013c47ec1b.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/83b9f497-6b84-4be9-9db2-21c4acdc82cc.jpg",
+      "PackagePath": "staticwebassets/images/83b9f497-6b84-4be9-9db2-21c4acdc82cc.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/84b590a5-8d17-46f5-bf90-18e9dce5a759.jpg",
+      "PackagePath": "staticwebassets/images/84b590a5-8d17-46f5-bf90-18e9dce5a759.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/8adaa757-0741-48e3-86bb-e31d6a38f55b.jpg",
+      "PackagePath": "staticwebassets/images/8adaa757-0741-48e3-86bb-e31d6a38f55b.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/90b811b8-c617-40a8-aa5d-c5f4cad4d1c1.jpg",
+      "PackagePath": "staticwebassets/images/90b811b8-c617-40a8-aa5d-c5f4cad4d1c1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/91ee964f-b14e-4961-bb70-37be8d65ea9f.jpg",
+      "PackagePath": "staticwebassets/images/91ee964f-b14e-4961-bb70-37be8d65ea9f.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/934b06f7-ed7c-4413-8407-293f047076cc.jpg",
+      "PackagePath": "staticwebassets/images/934b06f7-ed7c-4413-8407-293f047076cc.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/958469c2-0c1c-46d6-8f42-e3959a469283.jpg",
+      "PackagePath": "staticwebassets/images/958469c2-0c1c-46d6-8f42-e3959a469283.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/96a992da-55dc-421b-a0b5-28c3bc30f960.jpg",
+      "PackagePath": "staticwebassets/images/96a992da-55dc-421b-a0b5-28c3bc30f960.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/995b53df-b485-4f66-a795-652a88c6eaf7.jpg",
+      "PackagePath": "staticwebassets/images/995b53df-b485-4f66-a795-652a88c6eaf7.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9b656c3f-120b-453a-b62f-9eaeeb02e906.jpg",
+      "PackagePath": "staticwebassets/images/9b656c3f-120b-453a-b62f-9eaeeb02e906.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9d0d0d3f-7b16-49d8-b7a9-895c5b272aa8.jpg",
+      "PackagePath": "staticwebassets/images/9d0d0d3f-7b16-49d8-b7a9-895c5b272aa8.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9e3c9758-8e5c-47bd-b5ce-b4ab1d97b5a9.jpg",
+      "PackagePath": "staticwebassets/images/9e3c9758-8e5c-47bd-b5ce-b4ab1d97b5a9.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9e78bde7-e799-4b30-bf26-e684eeab56bb.jpg",
+      "PackagePath": "staticwebassets/images/9e78bde7-e799-4b30-bf26-e684eeab56bb.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9f81c2fb-bc08-45bd-8c74-ab147889dbc6.jpg",
+      "PackagePath": "staticwebassets/images/9f81c2fb-bc08-45bd-8c74-ab147889dbc6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/9fd520ab-9335-4cb9-8300-f0ecc624e0a6.jpg",
+      "PackagePath": "staticwebassets/images/9fd520ab-9335-4cb9-8300-f0ecc624e0a6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/a51e11d9-ade5-4b06-bfd0-09c3a57affb4.jpg",
+      "PackagePath": "staticwebassets/images/a51e11d9-ade5-4b06-bfd0-09c3a57affb4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/a6cc43e4-c7af-4f7e-913e-5fe5808fc9c8.jpg",
+      "PackagePath": "staticwebassets/images/a6cc43e4-c7af-4f7e-913e-5fe5808fc9c8.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/a7e44d66-0f2c-42d3-be6d-995f2427ebc4.jpg",
+      "PackagePath": "staticwebassets/images/a7e44d66-0f2c-42d3-be6d-995f2427ebc4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/about-1.jpg",
+      "PackagePath": "staticwebassets/images/about-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/about-2.jpg",
+      "PackagePath": "staticwebassets/images/about-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/about.jpg",
+      "PackagePath": "staticwebassets/images/about.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ac67dcb1-2523-4ea5-a7e5-b3a291561f18.jpg",
+      "PackagePath": "staticwebassets/images/ac67dcb1-2523-4ea5-a7e5-b3a291561f18.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/advertising-1.jpg",
+      "PackagePath": "staticwebassets/images/advertising-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/advertising-2.jpg",
+      "PackagePath": "staticwebassets/images/advertising-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/advertising-3.jpg",
+      "PackagePath": "staticwebassets/images/advertising-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/advertising-4.jpg",
+      "PackagePath": "staticwebassets/images/advertising-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ae0bb929-fb22-4375-adcc-3f9e2f2f6791.jpg",
+      "PackagePath": "staticwebassets/images/ae0bb929-fb22-4375-adcc-3f9e2f2f6791.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/avatar-1.jpg",
+      "PackagePath": "staticwebassets/images/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/avatar-2.jpg",
+      "PackagePath": "staticwebassets/images/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/avatar.jpg",
+      "PackagePath": "staticwebassets/images/avatar.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/b298d372-7bad-4a24-abea-0bdabb629207.jpg",
+      "PackagePath": "staticwebassets/images/b298d372-7bad-4a24-abea-0bdabb629207.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/b332c9f0-1f2f-4c5f-9c87-e26a5a6b89b9.jpg",
+      "PackagePath": "staticwebassets/images/b332c9f0-1f2f-4c5f-9c87-e26a5a6b89b9.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/b3d48d83-57b0-46da-92a1-1c5a2ad4bf17.jpg",
+      "PackagePath": "staticwebassets/images/b3d48d83-57b0-46da-92a1-1c5a2ad4bf17.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/b88e19f3-d524-45c9-9d20-99bfcef1e1d6.jpg",
+      "PackagePath": "staticwebassets/images/b88e19f3-d524-45c9-9d20-99bfcef1e1d6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/bb9d0055-5d3d-4988-9428-e2439294ef81.jpg",
+      "PackagePath": "staticwebassets/images/bb9d0055-5d3d-4988-9428-e2439294ef81.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/bf071b2e-82c2-42b5-8341-f1ebfb33df2d.jpg",
+      "PackagePath": "staticwebassets/images/bf071b2e-82c2-42b5-8341-f1ebfb33df2d.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/bf8cd43e-7b46-4218-838d-ca05ba431051.jpg",
+      "PackagePath": "staticwebassets/images/bf8cd43e-7b46-4218-838d-ca05ba431051.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/blog-1.jpg",
+      "PackagePath": "staticwebassets/images/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/blog-3.jpg",
+      "PackagePath": "staticwebassets/images/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/branding-1.jpg",
+      "PackagePath": "staticwebassets/images/branding-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/branding-2.jpg",
+      "PackagePath": "staticwebassets/images/branding-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/branding-3.jpg",
+      "PackagePath": "staticwebassets/images/branding-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/branding-4.jpg",
+      "PackagePath": "staticwebassets/images/branding-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/branding-5.jpg",
+      "PackagePath": "staticwebassets/images/branding-5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c0981566-ffde-4e1d-8e14-8de9a969d1ba.jpg",
+      "PackagePath": "staticwebassets/images/c0981566-ffde-4e1d-8e14-8de9a969d1ba.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c5e61012-0239-406d-bbf7-9be8a18fec35.jpg",
+      "PackagePath": "staticwebassets/images/c5e61012-0239-406d-bbf7-9be8a18fec35.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c767c409-1a24-453a-bc74-a59a5b351a4d.jpeg",
+      "PackagePath": "staticwebassets/images/c767c409-1a24-453a-bc74-a59a5b351a4d.jpeg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c79d1e11-bee1-4b49-bfe4-23ca2db0dc8a.jpg",
+      "PackagePath": "staticwebassets/images/c79d1e11-bee1-4b49-bfe4-23ca2db0dc8a.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c7e00fd0-b107-4810-a645-fe65b7e2e84e.jpg",
+      "PackagePath": "staticwebassets/images/c7e00fd0-b107-4810-a645-fe65b7e2e84e.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/c845b3de-8203-4398-89bd-edfdbaaf90e6.jpg",
+      "PackagePath": "staticwebassets/images/c845b3de-8203-4398-89bd-edfdbaaf90e6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ca39da91-fd26-41ff-8c32-ee8a21dd3574.jpg",
+      "PackagePath": "staticwebassets/images/ca39da91-fd26-41ff-8c32-ee8a21dd3574.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/dcc34350-b874-4d6a-849e-07f2522c453d.jpg",
+      "PackagePath": "staticwebassets/images/dcc34350-b874-4d6a-849e-07f2522c453d.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ddba5b46-9b04-41e0-bb7b-348f234040fd.jpg",
+      "PackagePath": "staticwebassets/images/ddba5b46-9b04-41e0-bb7b-348f234040fd.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/dddcce75-a79f-48d7-b689-9e4ac1490207.jpg",
+      "PackagePath": "staticwebassets/images/dddcce75-a79f-48d7-b689-9e4ac1490207.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/e0d6bc95-739d-4165-9027-2acabae42e2b.jpg",
+      "PackagePath": "staticwebassets/images/e0d6bc95-739d-4165-9027-2acabae42e2b.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/e5243207-146f-4fae-95e3-8268c87e2db6.jpg",
+      "PackagePath": "staticwebassets/images/e5243207-146f-4fae-95e3-8268c87e2db6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/eaeee9f1-1e12-44f4-95ee-189b8f76b048.jpg",
+      "PackagePath": "staticwebassets/images/eaeee9f1-1e12-44f4-95ee-189b8f76b048.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/eb8fea3b-74cd-452b-bb6c-4b5554d12381.jpg",
+      "PackagePath": "staticwebassets/images/eb8fea3b-74cd-452b-bb6c-4b5554d12381.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ec99dfb0-faa3-483a-90f9-870cf057adbc.jpg",
+      "PackagePath": "staticwebassets/images/ec99dfb0-faa3-483a-90f9-870cf057adbc.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/f2df2263-5c15-4025-8a30-ca71396c0aac.jpg",
+      "PackagePath": "staticwebassets/images/f2df2263-5c15-4025-8a30-ca71396c0aac.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/f6b42ccd-b781-4839-8704-26ada74758a7.jpg",
+      "PackagePath": "staticwebassets/images/f6b42ccd-b781-4839-8704-26ada74758a7.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/f7c67bc1-4143-426d-83dc-595c14c32879.jpg",
+      "PackagePath": "staticwebassets/images/f7c67bc1-4143-426d-83dc-595c14c32879.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/fa0f9179-6f89-4f09-af4f-927ef8fe3dd7.jpg",
+      "PackagePath": "staticwebassets/images/fa0f9179-6f89-4f09-af4f-927ef8fe3dd7.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/fbcecf5e-7a9d-4520-af63-65b1b23f2ccc.jpg",
+      "PackagePath": "staticwebassets/images/fbcecf5e-7a9d-4520-af63-65b1b23f2ccc.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/fe490569-d2f6-4eaf-be1b-c68c98110576.jpg",
+      "PackagePath": "staticwebassets/images/fe490569-d2f6-4eaf-be1b-c68c98110576.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/fe8cb2bf-64f5-42e5-bf1f-6670e47bf1e3.jpg",
+      "PackagePath": "staticwebassets/images/fe8cb2bf-64f5-42e5-bf1f-6670e47bf1e3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ff5a011d-37f5-4164-ad56-0a0145847da9.jpg",
+      "PackagePath": "staticwebassets/images/ff5a011d-37f5-4164-ad56-0a0145847da9.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/ffe8755c-073a-439c-9101-8e150dfc3d67.jpg",
+      "PackagePath": "staticwebassets/images/ffe8755c-073a-439c-9101-8e150dfc3d67.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/header.jpg",
+      "PackagePath": "staticwebassets/images/header.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/logo.svg",
+      "PackagePath": "staticwebassets/images/logo.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/section.jpg",
+      "PackagePath": "staticwebassets/images/section.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/teacher-1.jpg",
+      "PackagePath": "staticwebassets/images/teacher-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/teacher-2.jpg",
+      "PackagePath": "staticwebassets/images/teacher-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/teacher-3.jpg",
+      "PackagePath": "staticwebassets/images/teacher-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/teacher-4.jpg",
+      "PackagePath": "staticwebassets/images/teacher-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/teacher-5.jpg",
+      "PackagePath": "staticwebassets/images/teacher-5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/web-1.jpg",
+      "PackagePath": "staticwebassets/images/web-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/web-2.jpg",
+      "PackagePath": "staticwebassets/images/web-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/web-3.jpg",
+      "PackagePath": "staticwebassets/images/web-3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/images/web-4.jpg",
+      "PackagePath": "staticwebassets/images/web-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/js/leadmark.js",
+      "PackagePath": "staticwebassets/js/leadmark.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/abstracts/_animation.scss",
+      "PackagePath": "staticwebassets/scss/abstracts/_animation.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/abstracts/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/abstracts/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/abstracts/_variables.scss",
+      "PackagePath": "staticwebassets/scss/abstracts/_variables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/base/_typography.scss",
+      "PackagePath": "staticwebassets/scss/base/_typography.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_alert.scss",
+      "PackagePath": "staticwebassets/scss/components/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/components/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_button.scss",
+      "PackagePath": "staticwebassets/scss/components/_button.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_code.scss",
+      "PackagePath": "staticwebassets/scss/components/_code.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_dropdowns.scss",
+      "PackagePath": "staticwebassets/scss/components/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_form.scss",
+      "PackagePath": "staticwebassets/scss/components/_form.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_media-object.scss",
+      "PackagePath": "staticwebassets/scss/components/_media-object.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_mouse.scss",
+      "PackagePath": "staticwebassets/scss/components/_mouse.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/components/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_progressbar.scss",
+      "PackagePath": "staticwebassets/scss/components/_progressbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_scrollbar.scss",
+      "PackagePath": "staticwebassets/scss/components/_scrollbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/components/_table.scss",
+      "PackagePath": "staticwebassets/scss/components/_table.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/layout/_footer.scss",
+      "PackagePath": "staticwebassets/scss/layout/_footer.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/layout/_header.scss",
+      "PackagePath": "staticwebassets/scss/layout/_header.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/layout/_sections.scss",
+      "PackagePath": "staticwebassets/scss/layout/_sections.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/leadmark.scss",
+      "PackagePath": "staticwebassets/scss/leadmark.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_alert.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_badge.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_button-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_card.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_card.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_carousel.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_close.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_close.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_code.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_code.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_custom-forms.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_custom-forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_forms.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_functions.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_functions.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_grid.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_grid.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_images.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_images.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_jumbotron.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_jumbotron.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_media.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_media.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_modal.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_modal.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_nav.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_nav.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_popover.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_popover.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_print.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_print.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_progress.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_progress.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_reboot.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_root.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_root.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_spinners.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_tables.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_tables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_toasts.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_transitions.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_type.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_type.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/_variables.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/_variables.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_float.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_float.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_size.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_size.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_align.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_align.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_background.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_background.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_display.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_display.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_float.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_float.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_position.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_position.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_text.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_text.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.affix.js",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.affix.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.js",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/bootstrap/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendors/bootstrap/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/isotope/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/vendors/isotope/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/isotope/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/vendors/isotope/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.js",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/jquery/jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets/vendors/jquery/jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/themify-icons/css/themify-icons.css",
+      "PackagePath": "staticwebassets/vendors/themify-icons/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/vendors/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/vendors/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/vendors/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimardaozbek/Documents/GitHub/Erp7-Odevler-IbrahimArdaOzbek/İbrahimArdaÖzbek_BitirmeProjesi/OzelDersApp/OzelDers.MVC/wwwroot/vendors/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/vendors/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.OzelDers.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.OzelDers.MVC.props",
+      "PackagePath": "build\\OzelDers.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.OzelDers.MVC.props",
+      "PackagePath": "buildMultiTargeting\\OzelDers.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.OzelDers.MVC.props",
+      "PackagePath": "buildTransitive\\OzelDers.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
